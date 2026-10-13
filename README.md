@@ -26,8 +26,3 @@ This project was built applying core concepts from Mathematical Foundations for 
 ## 🛠️ Prerequisites & Installation
 
 To run this project, you need Python installed on your system along with the `numpy` and `matplotlib` libraries.
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/Smart-Parking-Grid.git](https://github.com/YourUsername/Smart-Parking-Grid.git)
-   cd Smart-Parking-Grid
